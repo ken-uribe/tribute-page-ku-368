@@ -1,0 +1,193 @@
+.caveat-<uniquifier > {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  .inter-<uniquifier > {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  div {
+    margin-bottom: 20px;
+    
+  }
+  #title {
+    color: black;
+    font-size: 128px;
+    font-family: Caveat;
+    font-weight: 700;
+    width: 230px auto;
+    height: 160px auto;
+    text-align: center;
+    line-height: 100px;
+    margin: 40px auto 0 auto;
+  }
+  #name2 {
+    color: gray;
+    font-family: Caveat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    width: 201px auto;
+    height: 20px auto;
+    line-height: 20px;
+    margin-bottom: 40px;
+  }
+  #img-caption {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    width: 473px auto;
+    height: 20px auto;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  img {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 10px;
+    margin: 0 auto;
+  }
+  #title-caption {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 60px;
+  }
+  #photo-info {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  #tribute-heading {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  table {
+    margin: 0 auto;
+    padding-bottom: 70px;
+  }
+  #tribute-info {
+    width: 897px auto;
+    height: 1868px auto;
+    margin: auto;
+  }
+  .year {
+    color: #000;
+    font-family: Caveat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: right;
+    padding-bottom: 10px;
+  }
+  .bullet {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 10px auto;
+    text-align: right;
+    padding-bottom: 20px;
+    padding-right: 10px;
+  }
+  .year-2 {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 10 auto;
+    text-align: left;
+    padding-bottom: 20px;
+    padding-right: 10px;
+  }
+  .info {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: auto;
+    text-align: left;
+    padding-bottom: 20px;
+  }
+  #quote {
+    color: #868686;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  h4 {
+    color: #000;
+    font-family: Caveat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 100px;
+  }
+  #tribute-link {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  #tribute-link2 {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  h5 {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: lightsteelblue;
+  }
+  
+  a:hover {
+    color: darkgrey;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  
